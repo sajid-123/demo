@@ -2,6 +2,8 @@
 
 
 import java.util.Scanner;
+
+
 interface Discountable {
     
     double discountedPrice(double price);
